@@ -69,13 +69,17 @@ h1, h2, h3, h4, h5 {
   color: #577790;
 }
 
+.container a {
+  color: #577790;
+}
+
 
 .homechecklist li:before {
   content:"\2713\0020";
 }
 
 
-
+.paddingbottom {padding-bottom: 6rem}  /* to prevent bottom of page from going behind footer*/
 
 
 /* FOOTER */
