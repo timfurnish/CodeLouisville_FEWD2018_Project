@@ -70,12 +70,6 @@ h1, h2, h3, h4, h5 {
 }
 
 
-
-
-
-
-
-
 .homechecklist li:before {
   content:"\2713\0020";
 }
@@ -83,6 +77,8 @@ h1, h2, h3, h4, h5 {
 
 
 
+
+/* FOOTER */
 
 .footer {
   position: absolute;
