@@ -7,7 +7,7 @@ This is a prototype rebuild of a website for http://jibna.com utilizing the Boot
 As the toc.js utilizes a jquery: $.getJSON('./data/articles.json', function (data) { ...
 the contents of the repository need to be running at the root on a web server to function correctly.
 
-
+git
 
 ## Built With
 
@@ -25,6 +25,6 @@ This project is not licensed under any license.
 
 ## Acknowledgments
 
-* Thanks to the instructions and help of the staff and mentors of CodeLouisville
+* Thanks to the help of the staff and mentors of CodeLouisville
 
 
