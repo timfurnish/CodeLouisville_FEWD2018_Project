@@ -7,7 +7,10 @@ This is a prototype rebuild of a website for http://jibna.com utilizing the Boot
 As the toc.js utilizes a jquery: $.getJSON('./data/articles.json', function (data) { ...
 the contents of the repository need to be running at the root on a web server to function correctly.
 
-git
+### Review site on
+https://timfurnish.github.io/CodeLouisville_FEWD2018_Project/index.html - Home page
+and
+https://timfurnish.github.io/CodeLouisville_FEWD2018_Project/newsletter.html - to see toc.js in action
 
 ## Built With
 
