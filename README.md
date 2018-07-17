@@ -9,9 +9,9 @@ the contents of the repository need to be running at the root on a web server to
 
 ### Review site on
 https://timfurnish.github.io/CodeLouisville_FEWD2018_Project/index.html - Home page
-and
+
 https://timfurnish.github.io/CodeLouisville_FEWD2018_Project/newsletter.html - to see toc.js in action
-and
+
 https://timfurnish.github.io/CodeLouisville_FEWD2018_Project/agents.html - another 2 column page
 
 ## Built With
