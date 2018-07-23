@@ -1,6 +1,6 @@
 # JIBNA REBUILD
 
-This is a prototype rebuild of a website for http://jibna.com utilizing the Bootstrap framework. As built on bootstrap, the site is mobile first and fully responsive to a variety of screen dimensions. Currently just two pages are built out: home (index.html) and Newsletter (newsletter.html). The home page constains a modal form for login. The newsletter page is a table of contents populated using a custom script (toc.js) which pulls data from a json file (.articles.json) and formats it into html. 
+This is a prototype rebuild of a website for http://jibna.com utilizing the Bootstrap framework. As built on bootstrap, the site is mobile first and fully responsive to a variety of screen dimensions. Currently just 3 pages are built out: home (index.html), Newsletter (newsletter.html) and Agents (agents.html). The home page constains a modal form for login. The newsletter page is a table of contents populated using a custom script (toc.js) which pulls data from a json file (.articles.json) and formats it into html. 
 
 ### Installing
 
